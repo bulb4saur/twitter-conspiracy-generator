@@ -1,0 +1,25 @@
+[tool.poetry]
+name = "twitter-conspiracy-generator"
+version = "0.1.0"
+description = ""
+authors = ["Erikas <hello@ebulba.lt>"]
+readme = "README.md"
+packages = [{ include = "twitter_conspiracy_generator" }]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+httpx = { extras = ["http2"], version = "^0.27.0" }
+lxml = "^5.2.2"
+openai = "^1.31.1"
+python-dotenv = "^1.0.1"
+tweepy = "^4.14.0"
+
+
+[tool.poetry.group.dev.dependencies]
+black = "^24.4.2"
+isort = "^5.13.2"
+pylint = "^3.2.2"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
