@@ -58,7 +58,7 @@ Got ideas for even crazier conspiracies? Fork the repo and submit a PR! Or just 
 
 ## 🔮 Follow the Madness
 - Follow the bot on Twitter: [@fake_the_garlic](https://x.com/fake_the_garlic)
-- Join our Discord: [Community](https://discord.gg/drG2JcWb)
+- Join our Discord: [Community](https://discord.gg/vfT9VCNTwp)
 
 ## Disclaimer: 
 
